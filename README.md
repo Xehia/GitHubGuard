@@ -1,6 +1,6 @@
 # GitHubGuard
 
-![GitHubGuard Logo](https://s7.gifyu.com/images/SGnLw.gif)
+![logo](https://s7.gifyu.com/images/SGnLw.gif)
 
 **GitHubGuard** is a Python script that automatically creates GitHub issues when an error is detected during script execution.  
 It simplifies error tracking and ensures that problems are logged in your repository for review and resolution.
