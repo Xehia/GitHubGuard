@@ -1,0 +1,4 @@
+.env
+dist/*
+GitHubGuard/__pycache__/*
+GitHubGuard.egg-info/*
