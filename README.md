@@ -15,7 +15,7 @@ It allows you to capture exceptions or messages in your Python code and turn the
 - Add custom title, labels, and assignees
 - Easy to import and use across multiple scripts
 - Fully compatible with Python 3.8+
-- 
+
 ---
 
 ## Installation
@@ -74,5 +74,3 @@ This project is licensed under the MIT License.
 
 ## Contributing
 Feel free to fork, modify, and submit pull requests. Bug reports and suggestions are welcome!
-
----
